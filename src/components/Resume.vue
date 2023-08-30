@@ -24,7 +24,7 @@ export default {
 
             <div class="card-resume">
                 <div class="card-resume-title">
-                    <span>Entradas</span>
+                    <span>Saídas</span>
                     <div class='icon'>
                         <i class="fas fa-arrow-down"></i>
                     </div>
@@ -36,7 +36,7 @@ export default {
 
             <div class="card-resume">
                 <div class="card-resume-title">
-                    <span>Entradas</span>
+                    <span>Total</span>
                     <div class='icon'>
                         <i class="fa-solid fa-dollar-sign"></i>
                     </div>

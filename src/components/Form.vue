@@ -58,7 +58,7 @@ export default {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 8px;
+    margin: 5px 15px;
 }
 
 .lef-section {
@@ -77,7 +77,7 @@ export default {
     padding: 5px 10px;
     font-size: 15px;
     border: 1px solid #CCC;
-    width: 150px;
+    width: 150px ;
 }
 
 .right-section {
