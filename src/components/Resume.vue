@@ -58,7 +58,7 @@ export default {
 }
 
 .content {
-    width: 70%;
+    width: 52%;
     display: flex;
     justify-content: space-around;
     gap: 20px;
